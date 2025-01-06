@@ -1,0 +1,1 @@
+Hi, I would like you to help me craft a function that will be added to "agg" method in my code cell this function will return the Name row as a percentage of "Fare_log" column, so you'll take the first value divide by the sum of the values in the first "low" rows. something like that 
